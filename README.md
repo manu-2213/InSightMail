@@ -1,3 +1,7 @@
+Submission to the lablab.ai Gemma 2 AI Challenge hosted at the Google Cloud Startup Hub. Created by the QMUL Machine Learning Society.
+Submission link: https://lablab.ai/event/gemma-2-ai-challenge/qmml/insightmail
+
+
 # **InSightMail**
 ## **Empowering Communication for the Visually Impaired**
 
