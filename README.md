@@ -1,7 +1,7 @@
-# **BlindMail**
+# **InSightMail**
 ## **Empowering Communication for the Visually Impaired**
 
-BlindMail is thoughtfully crafted to enhance accessibility, enabling individuals who are blind to seamlessly manage and communicate through their Gmail inbox. Leveraging the advanced Gemma 2 model, BlindMail transforms email interaction into an intuitive and natural language experience.
+InSightMail is thoughtfully crafted to enhance accessibility, enabling individuals who are blind to seamlessly manage and communicate through their Gmail inbox. Leveraging the advanced Gemma 2 model, InSightMail transforms email interaction into an intuitive and natural language experience.
 
 ## **Key Features:**
 - Email Summarization: Quickly grasp the essence of your messages with concise and clear summaries.
