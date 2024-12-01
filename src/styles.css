@@ -1,0 +1,37 @@
+/* Hide the main menu */
+#MainMenu {visibility: hidden;}
+/* Hide the footer */
+footer {visibility: hidden;}
+
+/* Style for the large round button */
+.stButton > button {
+    border-radius: 50px !important;      /* Makes the button round */
+    padding: 20px 40px !important;       /* Increases the size of the button */
+    font-size: 24px !important;          /* Increases the font size */
+    background-color: #4CAF50 !important;/* Change button color */
+    color: white !important;             /* Change text color */
+    border: none !important;             /* Remove border */
+    cursor: pointer;                     /* Changes cursor on hover */
+    transition: background-color 0.3s;  /* Adds a transition effect */
+}
+
+/* Change button color on hover */
+.stButton > button:hover {
+    background-color: #45a049 !important;
+}
+
+/* Center the button */
+.stButton > div {
+    display: flex;
+    justify-content: center;
+}
+
+/* Adjust spacing below the subtitle */
+h1 {
+    margin-bottom: 0px; /* Removes space below the main title */
+}
+
+h2 {
+    margin-top: 0px;      /* Removes space above the subtitle */
+    margin-bottom: 40px;  /* Adds space below the subtitle */
+}
